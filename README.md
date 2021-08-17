@@ -1,7 +1,7 @@
 ## 合集获取方式
 
 所以有需要的小伙伴，关注我的个人公众号，发送【面试题】获取相应的网盘下载地址。  
-![](https://github.com/javatechnorth/javanorth-itbooks/blob/main/image/javanorth.jpg)
+![](https://github.com/javatechnorth/javanorth-itbooks/blob/master/image/Javanorth.jpg)
 ## 2021年最新版 16000+ 道，280多份，面试题，汇总
 
 ## 整理那么辛苦，求个 Star，Fork 谢谢
