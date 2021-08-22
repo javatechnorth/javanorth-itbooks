@@ -6,7 +6,7 @@ ZooKeeper面试题及答案【最新版】ZooKeeper高级面试题大全(2021版
 
 ## 博主已将以下这些面试题整理成了一个ZooKeeper面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、ZooKeeper用推/拉模式？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/ZooKeeper/ZooKeeper面试题汇总及答案（2021年ZooKeeper面试题及答案大全）.md#1zookeeper用推/拉模式)  

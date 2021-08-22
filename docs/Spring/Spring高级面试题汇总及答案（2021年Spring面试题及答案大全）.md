@@ -6,7 +6,7 @@ Spring面试题及答案【最新版】Spring高级面试题大全(2021版)，�
 
 ## 博主已将以下这些面试题整理成了一个Spring面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、如何重新加载SpringBoot上的更改，而无需重新启动服务器？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Spring/Spring高级面试题汇总及答案（2021年Spring面试题及答案大全）.md#1如何重新加载springboot上的更改而无需重新启动服务器)  

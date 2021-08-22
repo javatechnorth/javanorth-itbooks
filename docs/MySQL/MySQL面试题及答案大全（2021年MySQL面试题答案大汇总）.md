@@ -6,7 +6,7 @@ MySQL面试题及答案【最新版】MySQL高级面试题大全(2021版)，发�
 
 ## 博主已将以下这些面试题整理成了一个MySQL面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、主键和候选键有什么区别？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/MySQL/MySQL面试题及答案大全（2021年MySQL面试题答案大汇总）.md#1主键和候选键有什么区别)  

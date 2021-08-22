@@ -6,7 +6,7 @@ HTML面试题及答案【最新版】HTML高级面试题大全(2021版)，发现
 
 ## 博主已将以下这些面试题整理成了一个HTML面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、常用的 meta 标签](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/HTML/HTML面试题附答案（2021年HTML面试题及答案大汇总）.md#1常用的-meta-标签)  

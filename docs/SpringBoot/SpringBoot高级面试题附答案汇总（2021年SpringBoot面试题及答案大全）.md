@@ -6,7 +6,7 @@ SpringBoot面试题及答案【最新版】SpringBoot高级面试题大全(2021�
 
 ## 博主已将以下这些面试题整理成了一个SpringBoot面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、使用 SpringBoot 启动连接到内存数据库 H2 的 JPA 应用程序需要哪些依赖项？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/SpringBoot/SpringBoot高级面试题附答案汇总（2021年SpringBoot面试题及答案大全）.md#1使用-springboot-启动连接到内存数据库-h2-的-jpa-应用程序需要哪些依赖项)  

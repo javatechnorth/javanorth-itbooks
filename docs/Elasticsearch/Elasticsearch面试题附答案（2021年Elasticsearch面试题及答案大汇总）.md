@@ -6,7 +6,7 @@ Elasticsearch面试题及答案【最新版】Elasticsearch高级面试题大全
 
 ## 博主已将以下这些面试题整理成了一个Elasticsearch面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、elasticsearch 的倒排索引是什么](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Elasticsearch/Elasticsearch面试题附答案（2021年Elasticsearch面试题及答案大汇总）.md#1elasticsearch-的倒排索引是什么)  

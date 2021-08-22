@@ -6,7 +6,7 @@ Memcached面试题及答案【最新版】Memcached高级面试题大全(2021版
 
 ## 博主已将以下这些面试题整理成了一个Memcached面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、如何将Memcached中item批量导入导出？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Memcached/Memcached面试题带答案（2021年Memcached面试题及答案大汇总）.md#1如何将memcached中item批量导入导出)  

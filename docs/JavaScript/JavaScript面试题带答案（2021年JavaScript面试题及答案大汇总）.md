@@ -6,7 +6,7 @@ JavaScript面试题及答案【最新版】JavaScript高级面试题大全(2021�
 
 ## 博主已将以下这些面试题整理成了一个JavaScript面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、实现继承的方法有哪些？？？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/JavaScript/JavaScript面试题带答案（2021年JavaScript面试题及答案大汇总）.md#1实现继承的方法有哪些)  

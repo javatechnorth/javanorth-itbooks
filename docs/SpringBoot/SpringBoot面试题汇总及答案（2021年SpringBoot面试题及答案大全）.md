@@ -6,7 +6,7 @@ SpringBoot面试题及答案【最新版】SpringBoot高级面试题大全(2021�
 
 ## 博主已将以下这些面试题整理成了一个SpringBoot面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、如何不通过任何配置来选择 Hibernate 作为 JPA 的默认实现？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/SpringBoot/SpringBoot面试题汇总及答案（2021年SpringBoot面试题及答案大全）.md#1如何不通过任何配置来选择-hibernate-作为-jpa-的默认实现)  

@@ -6,7 +6,7 @@ Spring面试题及答案【最新版】Spring高级面试题大全(2021版)，�
 
 ## 博主已将以下这些面试题整理成了一个Spring面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、如果在拦截请求中，我想拦截get方式提交的方法,怎么配置](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Spring/Spring中级面试题大汇总（2021年Spring面试题大全带答案）.md#1如果在拦截请求中我想拦截get方式提交的方法,怎么配置)  

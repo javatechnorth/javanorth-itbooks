@@ -6,7 +6,7 @@ Vue面试题及答案【最新版】Vue高级面试题大全(2021版)，发现�
 
 ## 博主已将以下这些面试题整理成了一个Vue面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、如何让CSS只在当前组件中起作用？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Vue/Vue面试题附答案汇总（2021年Vue面试题及答案大全）.md#1如何让css只在当前组件中起作用)  

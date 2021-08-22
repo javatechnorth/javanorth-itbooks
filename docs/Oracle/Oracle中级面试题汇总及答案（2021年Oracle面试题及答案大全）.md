@@ -6,7 +6,7 @@ Oracle面试题及答案【最新版】Oracle高级面试题大全(2021版)，�
 
 ## 博主已将以下这些面试题整理成了一个Oracle面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、描述tablespace和datafile之间的关系](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Oracle/Oracle中级面试题汇总及答案（2021年Oracle面试题及答案大全）.md#1描述tablespace和datafile之间的关系)  

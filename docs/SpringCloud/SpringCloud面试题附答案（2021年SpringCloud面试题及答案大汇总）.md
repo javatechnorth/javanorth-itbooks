@@ -6,7 +6,7 @@ SpringCloud面试题及答案【最新版】SpringCloud高级面试题大全(202
 
 ## 博主已将以下这些面试题整理成了一个SpringCloud面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、@LoadBalanced注解的作用](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/SpringCloud/SpringCloud面试题附答案（2021年SpringCloud面试题及答案大汇总）.md#1@loadbalanced注解的作用)  

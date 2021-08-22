@@ -6,7 +6,7 @@ Kafka面试题及答案【最新版】Kafka高级面试题大全(2021版)，发�
 
 ## 博主已将以下这些面试题整理成了一个Kafka面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、Kafka为什么那么快?](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Kafka/Kafka中级面试题汇总及答案（2021年Kafka面试题及答案大全）.md#1kafka为什么那么快)  

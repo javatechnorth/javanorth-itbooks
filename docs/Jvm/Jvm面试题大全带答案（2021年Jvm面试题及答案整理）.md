@@ -6,7 +6,7 @@ Jvm面试题及答案【最新版】Jvm高级面试题大全(2021版)，发现�
 
 ## 博主已将以下这些面试题整理成了一个Jvm面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、JVM 数据运行区，哪些会造成 OOM 的情况？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Jvm/Jvm面试题大全带答案（2021年Jvm面试题及答案整理）.md#1jvm-数据运行区哪些会造成-oom-的情况)  

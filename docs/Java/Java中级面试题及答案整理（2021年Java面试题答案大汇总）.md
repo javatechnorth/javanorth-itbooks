@@ -6,7 +6,7 @@ Java面试题及答案【最新版】Java高级面试题大全(2021版)，发现
 
 ## 博主已将以下这些面试题整理成了一个Java面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、java中有几种方法可以实现一个线程？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Java/Java中级面试题及答案整理（2021年Java面试题答案大汇总）.md#1java中有几种方法可以实现一个线程)  

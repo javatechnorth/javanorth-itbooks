@@ -6,7 +6,7 @@ Spring面试题及答案【最新版】Spring高级面试题大全(2021版)，�
 
 ## 博主已将以下这些面试题整理成了一个Spring面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、是否可以在Spring boot中更改嵌入式Tomcat服务器的端口?](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Spring/Spring高级面试题及答案汇总（2021年Spring面试题答案大全）.md#1是否可以在spring-boot中更改嵌入式tomcat服务器的端口)  

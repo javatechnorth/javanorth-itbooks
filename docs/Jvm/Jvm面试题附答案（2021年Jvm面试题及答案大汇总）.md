@@ -6,7 +6,7 @@ Jvm面试题及答案【最新版】Jvm高级面试题大全(2021版)，发现�
 
 ## 博主已将以下这些面试题整理成了一个Jvm面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、标记清除算法（ Mark-Sweep）](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Jvm/Jvm面试题附答案（2021年Jvm面试题及答案大汇总）.md#1标记清除算法-mark-sweep)  

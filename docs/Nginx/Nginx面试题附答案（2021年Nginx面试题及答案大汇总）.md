@@ -6,7 +6,7 @@ Nginx面试题及答案【最新版】Nginx高级面试题大全(2021版)，发�
 
 ## 博主已将以下这些面试题整理成了一个Nginx面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、Nginx配置文件nginx.conf有哪些属性模块?](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/Nginx/Nginx面试题附答案（2021年Nginx面试题及答案大汇总）.md#1nginx配置文件nginxconf有哪些属性模块)  

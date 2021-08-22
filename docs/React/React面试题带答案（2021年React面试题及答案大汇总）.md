@@ -6,7 +6,7 @@ React面试题及答案【最新版】React高级面试题大全(2021版)，发�
 
 ## 博主已将以下这些面试题整理成了一个React面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、与 ES5 相比，React 的 ES6 语法有何不同？](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/React/React面试题带答案（2021年React面试题及答案大汇总）.md#1与-es5-相比react-的-es6-语法有何不同)  

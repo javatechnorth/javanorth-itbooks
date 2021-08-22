@@ -6,7 +6,7 @@ JavaScript面试题及答案【最新版】JavaScript高级面试题大全(2021�
 
 ## 博主已将以下这些面试题整理成了一个JavaScript面试手册，是PDF版的
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/index.md)
+### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/javatechnorth/javanorth-itbooks/blob/master/docs/index.md)
 
 
 ### [1、如何添加一个dom对象到body中?innerHTML和innerText区别?](https://gitee.com/souyunku/NewDevBooks/blob/master/docs/JavaScript/JavaScript面试题附答案汇总（2021年JavaScript面试题及答案大全）.md#1如何添加一个dom对象到body中innerhtml和innertext区别)  
